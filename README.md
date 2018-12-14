@@ -1,1 +1,1 @@
-Python Solutions for Leetcode (inpired by leetcode - online programming earning platform)
+Python Solutions for Leetcode (inspired by leetcode - online programming learning platform)
